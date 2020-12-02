@@ -1,2 +1,2 @@
-# VOTER_TURNOUT_VS_ECONOMIC_FACTORS
+# VOTER_TURNOUT_VS_ECONOMICS
 analysis comparing voter turnout to economic prosperity of various states
